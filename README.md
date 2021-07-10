@@ -1,3 +1,3 @@
 # ePaperCalendar-RaspberryPi-Python
-基于树莓派的水墨屏电子日历python实现
+基于树莓派的水墨屏电子日历Python实现
 待施工...
